@@ -2,3 +2,8 @@ body{
   background: red;
   padding: 30px;
 }
+
+.list {
+  font-size: 10px;
+  background-color: aquamarine;
+}
